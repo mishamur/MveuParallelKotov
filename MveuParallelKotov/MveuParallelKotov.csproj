@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\MveuParallel\ArchiveFiles\ArchiveFiles.csproj" />
+    <ProjectReference Include="..\..\Try\JointTask\Log\Log.csproj" />
+  </ItemGroup>
+
 </Project>
